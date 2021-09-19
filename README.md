@@ -6,6 +6,6 @@ The web application was developed using flask framework and deployed using herok
 ## How to use the application
 <ul>
 <li>The user has to input a review in the text box provided</li>
-<li>Then press the predict button<li>
+<li>Then press the predict button</li>
 <li>After which the machine learning model at the backend will classifiy the review into positive,negative or neutral review.</li>
 </ul>
