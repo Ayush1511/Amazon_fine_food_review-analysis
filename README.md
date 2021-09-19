@@ -30,3 +30,9 @@ The web application was developed using flask framework and deployed using herok
 ![](/Screenshots/i1.JPG)
 ### Output
 ![](/Screenshots/o2.JPG)
+
+## Authors
+Ayush Goel
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
