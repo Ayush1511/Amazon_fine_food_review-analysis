@@ -11,4 +11,4 @@ The web application was developed using flask framework and deployed using herok
 
 ## I/O screenshots
 ### Output
-![](Screenshots/Input screenshot-1.JPG)
+![](/Screenshots/i1.JPG)
