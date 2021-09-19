@@ -12,4 +12,4 @@ The web application was developed using flask framework and deployed using herok
 
 ## I/O screenshots
 ### Output
-
+![](Screenshots/Output screenshot-1.JPG)
