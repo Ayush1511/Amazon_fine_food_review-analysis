@@ -9,6 +9,9 @@ The web application was developed using flask framework and deployed using herok
 <li>After which the machine learning model at the backend will classifiy the review into positive,negative or neutral review.</li>
 </ul>
 
+## Methodology
+The dataset used for training the model is https://www.kaggle.com/snap/amazon-fine-food-reviews.
+### Flowchart of Methodology
 ## I/O screenshots
 ### Input
 ![](/Screenshots/i2.JPG)
