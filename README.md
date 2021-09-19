@@ -13,7 +13,8 @@ The web application was developed using flask framework and deployed using herok
 ## Methodology
 <ul>
 <li>The dataset used for training the model is https://www.kaggle.com/snap/amazon-fine-food-reviews.</li>
-<li>tokenization,Stopwards Removal,Lemmatization ,Count Vectorization used for data preprocessing.</li>
+<li>Reviews divided into positive ,negative and neutral based on the score in datset.Score=0-2(Negative),Score=3(Neutral),Score=4-5(Positive)
+<li>Tokenization,Stopwards Removal,Lemmatization ,Count Vectorization used for data preprocessing.</li>
 <li>Random Forest Classifier model is used for classifying the review.</li>
 </ul>
 
