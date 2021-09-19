@@ -1,6 +1,5 @@
 # Review Analysis
 ## Description
-This webpage illustrates the application of natural language processing.
 This application will classify the review entered into differnt classes like-positive,negative and neutral.
 The web application was developed using flask framework and deployed using heroku and the link for the application is https://fine-food-review.herokuapp.com/
 ## How to use the application
