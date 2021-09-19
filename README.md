@@ -8,9 +8,8 @@ The web application was developed using flask framework and deployed using herok
 <li>Then press the predict button</li>
 <li>After which the machine learning model at the backend will classifiy the review into positive,negative or neutral review.</li>
 </ul>
-
 ## I/O screenshots
 ### Input
-![](/Screenshots/i1.JPG)<br>
+![](/Screenshots/i1.JPG)
 ### Output
 ![](/Screenshots/o1.JPG)
