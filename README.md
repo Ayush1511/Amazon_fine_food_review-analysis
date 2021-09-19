@@ -2,6 +2,7 @@
 ## Description
 This webpage illustrates the application of natural language processing.This application will classify the review entered into different classes like-positive,negative and neutral.
 The web application was developed using flask framework and deployed using heroku and the link for the application is https://fine-food-review.herokuapp.com/
+
 ## How to use the application
 <ul>
 <li>The user has to input a review in the text box provided</li>
@@ -11,6 +12,7 @@ The web application was developed using flask framework and deployed using herok
 
 ## Methodology
 The dataset used for training the model is https://www.kaggle.com/snap/amazon-fine-food-reviews.
+
 ### Flowchart of Methodology
 ## I/O screenshots
 ### Input
