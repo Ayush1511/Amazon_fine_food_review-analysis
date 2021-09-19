@@ -14,3 +14,7 @@ The web application was developed using flask framework and deployed using herok
 ![](/Screenshots/i2.JPG)
 ### Output
 ![](/Screenshots/o1.JPG)
+### Input
+![](/Screenshots/i1.JPG)
+### Output
+![](/Screenshots/o2.JPG)
