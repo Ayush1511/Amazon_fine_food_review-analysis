@@ -18,7 +18,7 @@ The web application was developed using flask framework and deployed using herok
 </ul>
 
 ### Flowchart of Methodology
-![](/Flowchart_of_Methodology.pdf)
+[embed](/Flowchart_of_Methodology.pdf)[/embed]
 
 ## I/O screenshots
 ### Input
